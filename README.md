@@ -21,7 +21,7 @@
 
 <br>
 
-## 📝 KyuHyeon's Velog 📝
+## 📝 GyuHyun's Velog 📝
 <div style="display:flex; flex-direction:row;">
     <a href="https://velog.io/@kyuhyeon_99/posts">
         <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white"> 
